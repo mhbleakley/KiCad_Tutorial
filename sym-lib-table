@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tutorial_schematicsymbols")(type "KiCad")(uri "${KIPRJMOD}/tutorial_schematicsymbols.kicad_sym")(options "")(descr ""))
+)
